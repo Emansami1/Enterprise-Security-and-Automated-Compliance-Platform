@@ -27,7 +27,7 @@ This section defines how the project incorporates modern enterprise security too
 
 ---
 
-## **2\. Rigorous Group Policy Enforcement** {#2.-rigorous-group-policy-enforcement}
+## **2\. Rigorous Group Policy Enforcement** 
 
 This section details the implementation of **Group Policy Objects (GPOs)** to lock down system configurations and enforce mandatory security settings across the domain, ensuring **consistency and control**.
 
@@ -58,7 +58,7 @@ This section details the dedicated setup of the Linux VM (**MON01**) for **Proac
 
 ---
 
-## **4\. Automated Security Response and Compliance** {#4.-automated-security-response-and-compliance}
+## **4\. Automated Security Response and Compliance**
 
 This section demonstrates the use of **PowerShell** for enforcing security and managing compliance consistently.
 
